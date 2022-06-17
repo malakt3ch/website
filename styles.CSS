@@ -1,0 +1,238 @@
+body {
+margin-bottom: 0px;
+  text-align: center;
+  align-items: center;
+  padding:0px;
+  font-family: 'Sacramento', cursive;
+  background-color: #E4F9F5;
+
+}
+
+
+h1 {
+  margin: 50px auto 0 auto;
+  line-height: 2;
+  font-size: 5.625rem;
+  color: #66BFBF
+
+
+}
+
+.hr1 {
+border: dotted #D3D3D3	 6px;
+border-bottom: none;
+width: 4%;
+margin: 100px auto;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-weight: normal;
+      font-family: 'Nunito', sans-serif;
+      color: #66BFBF
+
+}
+
+h3 {
+  color: #11999E
+}
+
+
+
+.top-countainer {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px
+}
+
+.bottom-container {
+
+}
+
+
+
+.bottom-coutnainer {
+  font-family: 'Inconsolata', monospace;
+
+
+}
+
+.middle-countnainer {
+  margin: 100px 0 ;
+    background-color: #FFFFFF;
+}
+.pro1 {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+}
+
+.bottom-cloud {
+  position: relative;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud {
+  position: relative;
+  right: 300px;
+  top: 50px;
+
+}
+.abtmeh {
+  font-family: 'Nunito', sans-serif;
+  color: #808080;
+  padding-bottom: 10px;
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.pr0gramming0 {
+  font-family: 'Nunito', sans-serif;
+  position: relative; left: 5rem;
+  position: relative; bottom: 3rem;
+  text-align: right;
+    font-size: 20px;
+}
+.p0art {
+  font-family: 'Nunito', sans-serif;
+  position: relative; left: 5rem;
+  position: relative; bottom: -3rem;
+  text-align: left;
+    font-size: 20px;
+}
+
+
+.footer-link {
+  font-family: 'Inconsolata', monospace;
+}
+
+
+.watermark1 {
+  font-family: 'DM Sans', sans-serif;
+}
+
+
+.imlol {
+  font-family: 'Inconsolata', monospace;
+  margin-bottom: 38px;
+}
+
+.contacter {
+  font-family: 'Inconsolata', monospace;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px , auto 100px , auto;
+  text-align: left;
+  line-height: 2;
+  padding-left: 30px;
+}
+.imagearto {
+  position: relative; right: 2rem;
+  width: 40%;
+  float: right;
+  margin-right: -300px;
+
+}
+
+
+.skills {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 5px;
+
+
+}
+
+.img1programming {
+  position:relative; left: 2rem;
+  width: 40%;
+  float: left;
+  margin-right: 30px;
+    font-size: 40px;
+}
+
+.texpro {
+  position: relative; left: 2rem;
+    font-size: 40px;
+}
+
+.artt {
+    position: relative; right: 2rem;
+    width: 50%;
+    float: right;
+    margin-left: 10px;
+      font-size: 40px;
+}
+
+.getit {
+  position: relative; right: 2rem;
+  width: 50%;
+  float: right;
+  margin-left: 10px;
+    font-size: 40px;
+}
+
+.arttext {
+  position: relative; right: 2rem;
+  width: 50%;
+  float: right;
+  margin-left: 2rem;
+  text-align: left;
+  font-size: 45px;
+  bottom: 80px;
+  right: 89px;
+
+
+
+}
+
+.getintouch {
+  margin: auto;
+  text-align:center
+}
+
+
+
+.btn1 {
+  background: #A1CEC6;
+  background-image: -webkit-linear-gradient(top, #A1CEC6, #A1CEC6);
+  background-image: -moz-linear-gradient(top, #A1CEC6, #A1CEC6);
+  background-image: -ms-linear-gradient(top, #A1CEC6, #A1CEC6);
+  background-image: -o-linear-gradient(top, #A1CEC6, #A1CEC6);
+  background-image: linear-gradient(to bottom, #A1CEC6, #A1CEC6);
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn1:hover {
+  background: #A7D4CC;
+  background-image: -webkit-linear-gradient(top, #A7D4CC, #A7D4CC);
+  background-image: -moz-linear-gradient(top, #A7D4CC, #A7D4CC);
+  background-image: -ms-linear-gradient(top, #A7D4CC, #A7D4CC);
+  background-image: -o-linear-gradient(top, #A7D4CC, #A7D4CC);
+  background-image: linear-gradient(to bottom, #A7D4CC, #A7D4CC);
+  text-decoration: none;
+
+}
+
+
+.a {
+  color: #11999E;
+  font-family: 'Inconsolata', monospace;
+  margin: 10px 10px;
+  text-decoration: none;
+}
+
+a:hover {
+
+}
